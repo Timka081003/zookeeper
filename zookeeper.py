@@ -1,5 +1,4 @@
-print("I love animals!\n"
-      "Let's check on the animals...\n"
- "The deer looks fine.\n"
-"The bat looks happy.\n"
-"The lion looks healthy.")
+print("Did that stop the old Grinch?\n"
+       "No! The Grinch simply said,\n"
+       "\"If I can't find a reindeer,\n"
+       "I'll make one instead!\"")
